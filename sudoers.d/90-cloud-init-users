@@ -1,0 +1,4 @@
+# Created by cloud-init v. 22.3.4-0ubuntu1~20.04.1 on Thu, 24 Nov 2022 07:11:33 +0000
+
+# User rules for titov199373
+titov199373 ALL=(ALL) NOPASSWD:ALL
